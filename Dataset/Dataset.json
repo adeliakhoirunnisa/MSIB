@@ -1,0 +1,106 @@
+{
+    "Dataset": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "hallo",
+          "hai",
+          "halo",
+          "hei",
+          "hi",
+          "hy",
+          "pagi",
+          "morning",
+          "siang",
+          "afternoon",
+          "sore",
+          "malam",
+          "bro",
+          "sis",
+          "kawan"
+        ],
+        "responses": [
+          "Hai! PaDi UMKM di sini. Mau tau informasi tentang apa nih?",
+          "Halo! Kami PaDi UMKM, ada yang bisa kami bantu?",
+          "Helo! Selamat datang di PaDi UMKM. Ada yang bisa kami bantu?"
+        ]
+      },
+      {
+        "tag": "padiumkm",
+        "patterns": [
+          "Apa itu PaDi UMKM?",
+          "Siapa itu seller dan buyer PaDi UMKM?"
+        ],
+        "responses": [
+          "PaDi UMKM adalah marketplace yang mempertemukan antara UMKM dengan pembelanjaan BUMN di seluruh Indonesia.",
+          "PaDi UMKM singkatan dari Pasar Digital yang mempertemukan UMKM dengan pembelanjaan BUMN di seluruh Indonesia"
+        ]
+      },
+      {
+        "tag": "buyerpadi",
+        "patterns": [
+          "Siapa saja pembeli di PaDi UMKM?",
+          "Yang beli di PaDi UMKM siapa?",
+          "Berapa tipe pembeli di PaDi UMKM"
+        ],
+        "responses": [
+          "Tipe atau jenis pembeli di PaDi UMKM ada dua, yaitu Pembeli Retail (Pribadi) dan Pembeli Bisnis (B2B).",
+          "Pembeli di PaDi UMKM ada 2 yakni Pembeli Retail dan Pembeli Bisnis",
+          "Pembeli kami terdiri dari 2 yaitu Retail/Individu dan B2B."
+        ]
+      },
+      {
+        "tag": "buyerpadi",
+        "patterns": [
+          "Siapa saja pembeli di PaDi UMKM?",
+          "Yang beli di PaDi UMKM siapa?",
+          "Berapa tipe pembeli di PaDi UMKM"
+        ],
+        "responses": [
+          "Tipe atau jenis pembeli di PaDi UMKM ada dua, yaitu Pembeli Retail (Pribadi) dan Pembeli Bisnis (B2B).",
+          "Pembeli di PaDi UMKM ada 2 yakni Pembeli Retail dan Pembeli Bisnis",
+          "Pembeli kami terdiri dari 2 yaitu Retail/Individu dan B2B."
+        ]
+      },
+      {
+        "tag": "bayarpadi",
+        "patterns": [
+          "Bagaimana cara pembayaran PaDi UMKM?",
+          "Metode Pembayaran apa saja yang disediakan PaDi UMKM",
+          "Bisa melalui apa saja cara pembayaran di PaDi UMKM?"
+        ],
+        "responses": [
+          "Pembayaran melalui VA BRI, VA BNI, VA BTN, VA Mandiri, VA BSI, LinkAja, QRIS.",
+          "Ada 7 pilihan metode pembayaran yakni: VA BRI, VA BNI, VA BTN, VA Mandiri, VA BSI, LinkAja, QRIS.",
+          "Terdapat 7 pilihan metode pembayaran yakni: VA BRI, VA BNI, VA BTN, VA Mandiri, VA BSI, LinkAja, QRIS."
+        ]
+      },
+      {
+        "tag": "kendalalogin",
+        "patterns": [
+          "Saya tidak bisa log in akun PaDi lalu bagaiman?",
+          "Mengapa saya tidak bisa login akun PaDi UMKM>",
+          "Saya terkendala login akun, lalu bagaimana ya?"
+        ],
+        "responses": [
+          "Apabila Anda mengalami kendala pada saat login, mohon untuk dipastikan aktivasi akun, alamat email dan password sudah benar.",
+          "Pastikan alamat email dan password sudah benar.",
+          "Jika sudah di cek aktivasi akun, email, dan password sudah benar namun tetap gagal maka hubungi email cs@padiumkm.id."
+        ]
+      },
+      {
+        "tag": "terimakasih",
+        "patterns": [
+          "Thanks",
+          "Thank you",
+          "Terima kasih",
+          "Makasih",
+          "Terima kasih banyak"
+        ],
+        "responses": [
+          "Dengan senang hati :)",
+          "Sama-sama yaa"
+        ]
+      }
+    ]
+  }
